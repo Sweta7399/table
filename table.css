@@ -1,0 +1,227 @@
+.header1{
+    margin-top: 10px;
+    width: 100%;
+    height: 40px;
+    background-color: darkcyan;
+    border-radius: 5px;
+}
+.tme{
+    font-size: 35px;
+    font-weight: bolder;
+    float: left;
+    color: white;
+    margin-left: 5px;
+    margin-bottom: 15px;
+}
+.am{
+    float: left;
+    margin-top: 15px;
+    color: white;
+    margin-left: 5px;
+}
+.block1{
+    width: 25%;
+    height: 70px;
+    float: left;
+    background-color: white;
+    margin-top: 20px;
+    margin-left:25px;
+
+}
+.toptext{
+    margin-top: 10px;
+    float: left;
+    margin-left: 5px;
+}
+.belowtext{
+    margin-top: -5px;
+    font-size: 20px;
+    font-weight: bolder;
+    float: left;
+    margin-left: 5px;
+}
+.block2{
+    width: 20%;
+    height: 70px;
+    float: left;
+    margin-top: 20px;
+    background-color:white;
+    margin-left: 2px;
+}
+.leftside{
+    float: left;
+    margin-left: 15px;
+    margin-bottom: 5px;
+
+}
+.bold{
+    font-weight: bolder;
+}
+.leftside2{
+    margin-top: -5px;
+    margin-left:16px;
+    float: left;
+}
+.block4{
+    width: 20%;
+    height: 70px;
+    float: left;
+    margin-top: 20px;
+    background-color: white;
+    margin-left: 2px;
+}
+.block4top{
+    height:35px;
+    border-color: black;
+    color: blue;
+    float: left;
+    margin-left: 10px;
+    margin-top: 15px;
+    font-size: 15px;
+    font-weight: bolder;
+}
+.block4below{
+    margin-left:-100px ;
+    float: left;
+    margin-top: 40px;
+}
+.block5{
+    width: 20%;
+    height: 70px;
+    float: left;
+    margin-top: 20px;
+    background-color: white;
+    margin-left: 2px;
+}
+.block4below2{
+    margin-left:-70px ;
+    float: left;
+    margin-top: 40px;
+}
+.block12{
+    width: 25%;
+    height: 70px;
+    float: left;
+    margin-top:5px;
+    background-color: white;
+    margin-left:25px;
+}
+.block42{
+    width: 20%;
+    height: 70px;
+    float: left;
+    margin-top: 5px;
+    background-color: white;
+    margin-left: 2px;
+}
+.block52{
+    width: 20%;
+    height: 70px;
+    float: left;
+    margin-top: 5px;
+    background-color:white;
+    margin-left: 2px;
+}
+.block22{
+    width: 20%;
+    height: 70px;
+    float: left;
+    margin-top: 5px;
+    background-color:white;
+    margin-left: 2px;
+}
+.block122{
+    width: 25%;
+    height: 70px;
+    float: left;
+    margin-top:20px;
+    background-color:white;
+    margin-left:-30px;
+}
+.belowtext1{
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: bolder;
+    float: left;
+    margin-left: -135px;
+}
+.mt1{
+    margin-left: 100px;
+}
+.belowtext3{
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: bolder;
+    float: left;
+    margin-left: -185px;
+}
+.mt2{
+    margin-left: 50px;
+}
+.Table{
+    width:100%;
+    height:250px;
+    background-color:rgb(150, 175, 223);
+    
+}
+
+.toptime{
+    width: 100%;
+    height: 30px;
+    background-color: rgb(150, 175, 223);
+}
+
+.table1{
+    margin-top: 0px;
+}
+.timefont{
+    color: blue;
+    font-weight: bolder;
+    float: left;
+    margin-top: 8px;
+    margin-left: -50px;
+    font-size: large;
+
+}
+.toptime1{
+    width: 100%;
+    height: 30px;
+    background-color: rgb(150, 175, 223);
+
+}
+.timefont1{
+    color: blue;
+    font-weight: bolder;
+    float: left;
+    margin-top: 8px;
+    margin-left: 20px;
+    font-size: large;
+
+}
+.Table2{
+    width:100%;
+    height:100px;
+    background-color:rgb(150, 175, 223);
+    
+}
+.Table3{
+    width:100%;
+    height:100px;
+    background-color:rgb(150, 175, 223);
+    
+}
+.notes{
+    width:85.5%;
+    height:40px;
+    background-color:lightgray;
+    margin-left: 175px;
+    margin-top:-5px;
+}
+.notestext{
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+    font-weight: bolder;
+
+}
+
